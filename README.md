@@ -131,6 +131,22 @@ The **Infocom Employee Database Management System** is a comprehensive applicati
 
 <br />
 
+---
+
+## 🖼️ UI Preview
+
+
+![image](https://github.com/user-attachments/assets/03d6bd2f-bb1c-4746-a705-8a9a0a267106)
+
+<br />
+
+![image](https://github.com/user-attachments/assets/15bc3d74-313b-4a2c-8838-af7610fc08c5)
+
+<br />
+
+
+---
+
 ### Features:
 
 - ✅ Secure login with password hashing
